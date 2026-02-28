@@ -1,8 +1,8 @@
 package executor
 
 import (
-	"github.com/yourusername/gosh/internal/lexer"
-	"github.com/yourusername/gosh/internal/parser"
+	"github.com/TetsWorks/Gosh-shell/internal/lexer"
+	"github.com/TetsWorks/Gosh-shell/internal/parser"
 )
 
 // ExecDirect parseia e executa uma string diretamente
