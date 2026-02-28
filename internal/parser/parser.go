@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yourusername/gosh/internal/lexer"
+	"github.com/TetsWorks/Gosh-shell/internal/lexer"
 )
 
 // Parser constrói a AST a partir de tokens
