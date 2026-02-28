@@ -9,12 +9,12 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/yourusername/gosh/internal/builtin"
-	"github.com/yourusername/gosh/internal/env"
-	"github.com/yourusername/gosh/internal/executor"
-	"github.com/yourusername/gosh/internal/jobcontrol"
-	"github.com/yourusername/gosh/internal/rc"
-	"github.com/yourusername/gosh/internal/readline"
+	"github.com/TetsWorks/Gosh-shell/internal/builtin"
+	"github.com/TetsWorks/Gosh-shell/internal/env"
+	"github.com/TetsWorks/Gosh-shell/internal/executor"
+	"github.com/TetsWorks/Gosh-shell/internal/jobcontrol"
+	"github.com/TetsWorks/Gosh-shell/internal/rc"
+	"github.com/TetsWorks/Gosh-shell/internal/readline"
 )
 
 const (
