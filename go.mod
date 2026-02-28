@@ -1,4 +1,4 @@
-module github.com/yourusername/gosh
+module github.com/TetsWorks/Gosh-shell
 
 go 1.21
 
