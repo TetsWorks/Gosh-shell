@@ -11,11 +11,11 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/yourusername/gosh/internal/builtin"
-	"github.com/yourusername/gosh/internal/env"
-	"github.com/yourusername/gosh/internal/jobcontrol"
-	"github.com/yourusername/gosh/internal/lexer"
-	"github.com/yourusername/gosh/internal/parser"
+	"github.com/TetsWorks/Gosh-shell/internal/builtin"
+	"github.com/TetsWorks/Gosh-shell/internal/env"
+	"github.com/TetsWorks/Gosh-shell/internal/jobcontrol"
+	"github.com/TetsWorks/Gosh-shell/internal/lexer"
+	"github.com/TetsWorks/Gosh-shell/internal/parser"
 )
 
 // Executor executa a AST do shell
