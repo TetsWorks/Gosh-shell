@@ -257,4 +257,4 @@ make lint
 
 ## Licença
 
-MIT — veja [LICENSE](LICENSE)
+GPL-3.0 — veja [LICENSE](LICENSE)
