@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yourusername/gosh/internal/env"
-	"github.com/yourusername/gosh/internal/jobcontrol"
+	"github.com/TetsWorks/Gosh-shell/internal/env"
+	"github.com/TetsWorks/Gosh-shell/internal/jobcontrol"
 )
 
 // Result de um builtin
