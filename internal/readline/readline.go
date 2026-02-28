@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/term"
 
-	"github.com/yourusername/gosh/internal/builtin"
-	"github.com/yourusername/gosh/internal/env"
+	"github.com/TetsWorks/Gosh-shell/internal/builtin"
+	"github.com/TetsWorks/Gosh-shell/internal/env"
 )
 
 // Cores ANSI
